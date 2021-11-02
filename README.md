@@ -1,1 +1,3 @@
 # knapsack
+
+Knapsack problem
